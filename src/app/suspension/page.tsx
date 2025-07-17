@@ -1,11 +1,11 @@
-import ServiceLayout from "@/components/service-layout";
+import ServiceLayout from "../../components/service-layout";
 import {
   Card,
   CardContent,
   CardDescription,
   CardHeader,
   CardTitle,
-} from "@/components/ui/card";
+} from "../../components/ui/card";
 import { CheckCircle, Gauge, Car, Wrench, AlertTriangle } from "lucide-react";
 
 export default function SuspensionPage() {

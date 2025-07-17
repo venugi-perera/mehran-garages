@@ -1,7 +1,7 @@
 import type React from "react";
 import Link from "next/link";
 import { ArrowLeft, Phone, ShieldCheck, Wrench, Users } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "../components/ui/button";
 
 interface ServiceLayoutProps {
   children: React.ReactNode;
